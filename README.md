@@ -1,5 +1,5 @@
 # hunter-mikecoffee
-mikel Machine Job for gabz mikel machine map for QBCore.
+mikel Machine Job for mikel machine map for QBCore.
 
 # Preview
 https://youtu.be/NdiDU2Ftb6w
